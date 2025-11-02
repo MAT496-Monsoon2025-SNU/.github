@@ -2,7 +2,7 @@ Welcome to MAT496 class repository. All projects developed by students in the co
 
 Some selected projects which shows our students creativity are listed here. 
 
-
-|col 1| col 2| col 3|
----------------------
+| Student       |   Project Summary   | Repository |
+|-------------|--------------|-------|
+| [Ajit Kumar](https://github.com/krajit)   | Using LLMs for writing research review reports  | [Repo](https://github.com/krajit/deep_research_from_scratch)    |
 
