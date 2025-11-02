@@ -3,5 +3,6 @@ Welcome to MAT496 class repository. All projects developed by students in the co
 Some selected projects which shows our students creativity are listed here. 
 
 
-
+|col 1| col 2| col 3|
+---------------------
 
